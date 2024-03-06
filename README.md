@@ -1,4 +1,4 @@
-# fortune_telling_lot
+# omikuji_kernel_module
 
 An Omikuji (fortune-telling lot) Linux kernel module in Rust
 
@@ -10,8 +10,8 @@ $ sudo apt install rustc-1.68 rust-1.68-src rustfmt-1.68 bindgen-0.56 \
 ```
 
 ```
-$ git clone https://github.com/mnogu/fortune_telling_lot.git
-$ cd fortune_telling_lot
+$ git clone https://github.com/mnogu/omikuji_kernel_module.git
+$ cd omikuji_kernel_module
 $ make
 ```
 
