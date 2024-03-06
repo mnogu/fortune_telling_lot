@@ -13,6 +13,10 @@ $ sudo apt install rustc-1.68 rust-1.68-src rustfmt-1.68 bindgen-0.56 \
 $ git clone https://github.com/mnogu/fortune_telling_lot.git
 $ cd fortune_telling_lot
 $ make
+```
+
+```
+$ sudo update-secureboot-policy --new-key
 $ sudo make install
 ```
 
